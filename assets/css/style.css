@@ -1,0 +1,340 @@
+.upper1{
+    list-style-type: square;
+    color: blue; 
+}
+.bas{
+    color: black;
+    margin-top: -2px;
+}
+.nom{
+    text-decoration: none;
+    padding: 5px;
+    color: black;
+}
+.upper{
+    display:flex;
+    flex-direction: row;
+}
+.upper2{
+    display:flex;
+    flex-direction: row;
+    text-align: left;
+    margin-left: 380px;
+    justify-content: space-between;
+    list-style-type: none;
+    
+}
+.lien{
+    padding-right: 40px;   
+    margin-top: 6px;
+}
+.pages:hover{
+    color: blue;
+}
+.pages:active{
+    color: blue;
+}
+.pages:current{
+    color: blue;
+}
+a{
+    text-decoration: none;
+    color: black;
+}
+header{
+    position: fixed;
+    background-color: white;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    padding-right: 50px ;
+    box-shadow: 0px 1px 0px 0px beige;
+}
+.down1{
+    margin-left: 40px;
+}
+.down2{
+    display:flex;
+    flex-direction: row;
+    margin-top: -15px;
+}
+.foot{
+    display:flex;
+    flex-direction: row;
+    justify-content: space-between;
+    padding-top: 50px;
+}
+.zone{
+    padding-left: 100px;
+}
+.icons{
+    padding-right: 20px;
+}
+footer{
+    font-size: 14px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.mainly{
+    background-color: rgb(224, 192, 217);
+    padding-top: 150px;
+    padding-bottom: 150px;
+    margin-right: 830px;
+}
+.box{
+    margin-right: 30px;
+    margin-left: 200px;
+    padding-top: 50px;
+    background-color: rgb(224, 192, 217);
+    box-shadow:5px 5px 5px 2px black;
+}
+.photo{
+    border-radius: 100px;
+}
+.iconss{
+    padding-top: 10px;
+    padding-left: 120px;
+    padding-right: 120px;
+    background-color: white;
+    padding-bottom: 10px;
+    display: flex;
+    flex-direction: row;
+}
+body{
+    font-family: Arial, Helvetica, sans-serif;
+}
+.box_liens{
+    display: flex;
+    flex-direction: row;
+    list-style-type: none;
+    padding-right: 80px;
+    padding-left: 80px;
+    margin-left: -80px;
+}
+.boxliens{
+    border: 1px solid black;
+    border-radius: 25px;
+    padding: 5px;
+    padding-left: 40px;
+    padding-right: 40px;
+    margin-right: 20px;
+}
+.boxliens:hover{
+    background-color: rgb(73, 73, 221);
+}
+.principal{
+    display: flex;
+    flex-direction: row;
+}
+.text{
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    padding: 30px;
+    margin-left: 20px;
+}
+hr{
+    color: blue;
+}
+.titre{
+    list-style-type: square;
+    text-decoration: none;
+    color: blue;
+}
+.title{
+    color: black;
+    padding-top: 100px;
+}
+.main{
+    margin-left: 300px;
+    margin-right: 300px;
+}
+.page{
+    background-color: rgb(224, 192, 217);
+    padding-top: 20px;
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+.ligne{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    padding-bottom: 20px;
+}
+.cv{
+    color: white;
+    border-radius: 20px;
+    background-color: rgb(24, 24, 196);
+    padding: 8px;
+}
+.expe{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    background-color: white;
+    padding-top: 80px;
+    padding-bottom: 80px;
+    padding-left: 50px;
+    padding-right: 50px;
+    margin-top: 50px;
+}
+.present{
+    color: rgb(24, 24, 196);
+}
+.educ{
+    text-align: left;
+}
+.skills{
+    background-color: white;
+}
+.skill{
+    text-align: left;
+    padding-left: 50px;
+}
+.skil{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    list-style-type: none;
+}
+.skil1{
+    padding-left: 50px;
+}
+.skil2{
+    padding-right: 150px;
+}
+.skil3{
+    padding-right: 200px;
+}
+.code{
+    margin-top: -80px;
+    margin-bottom: -85px;
+    margin-right: -50px;
+}
+.txt{
+    padding-left: 30px;
+}
+.ligne1{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+}
+.top{
+    padding-top: 50px;
+}
+form{
+    padding-top: 50px;
+    padding-bottom: 50px;
+}
+.f1{
+    margin-left: 70px;
+    text-align: left;
+}
+.form{
+    background-color: white;
+    margin-left: 300px;
+    margin-right: 300px;
+}
+.f2{
+    margin-right: 70px;
+    text-align: left;
+}
+.f3{
+    margin-left: 70px;
+    text-align: left;
+    margin-right: 100px;
+}
+.f4{
+    margin-left: 70px;
+    text-align: left;
+    margin-right: 100px;
+}
+.f5{
+    margin-left: 70px;
+    text-align: left;
+    margin-right: 100px;
+}
+.f6{
+    margin-left: 70px;
+    text-align: left;
+}
+input{
+    display: inline;
+}
+.send{
+    border-radius: 20px;
+    background-color: rgb(51, 51, 213);
+    padding-left: 15px;
+    padding-right: 15px;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    color: white;
+}
+.point{
+    color: blue;
+}
+input{
+    border: 1px solid white;
+    padding: 0%;
+    color: blue;
+}
+.form_line{
+    border: 1px solid black;
+    
+}
+.form_line3{
+    border: 1px solid black;
+}
+
+@media screen and (max-width: 500px) {
+    
+    .upper2{
+        margin-left: 10px;
+        font-size: 10px;
+    }
+    .lien{
+        padding-right: 10px;   
+        margin-top: 6px;
+        
+    }
+    .bas{
+        font-size: 12px;
+    }
+    .upper1{
+        font-size: 20px;   
+    }
+    .box{
+        margin-right: 30px;
+        margin-left: 5px;
+        padding-top: 20px;
+        margin-bottom: -50px;
+    }
+    footer{
+        font-size: 10px;
+    }
+    body{
+        font-size: 12px;
+    }
+    .main{
+        margin-left: 0px;
+        margin-right: 0px;
+    }
+    .form{
+        background-color: white;
+        margin-left: 0px;
+        margin-right: 0px;
+    }
+    .f1 .f3 .f4 .f5{
+        margin-left: 0px;
+        margin-right: 0px;
+    }
+    .ligne1{
+        display: flex;
+        flex-direction: column;
+    }
+    .f2{
+        margin-left: 70px;
+    }
+    hr{
+        width: 160px;
+        margin-left: 0px;
+    }
+    .ln{
+        margin-left: 125px;
+    }
+  }
